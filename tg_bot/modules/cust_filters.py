@@ -193,9 +193,7 @@ def reply_filter(bot: Bot, update: Update):
     if not to_match:
         return
 
-    # my custom thing
-    if message.reply_to_message:
-        message = message.reply_to_message
+    
     ad_filter = ""
     # my custom thing
 

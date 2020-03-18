@@ -18,7 +18,6 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-This bot is a clone of @BanHammerMarie_Bot maintained by @AbinPaulZackariah
 Source Code: https://github.com/AbinPaulZackariah/mariebot-malayalam
 
 """
